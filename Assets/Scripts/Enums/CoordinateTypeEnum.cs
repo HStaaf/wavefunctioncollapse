@@ -1,0 +1,5 @@
+﻿enum CoordinateType
+{
+    x,
+    y
+}
